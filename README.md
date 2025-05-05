@@ -3,7 +3,7 @@
 ## 🎯 Amaç
 Bu proje, metin madenciliği ve doğal dil işleme (NLP) teknikleri kullanılarak akademik makalelerin özetlerinden anlamlı temsiller üretmeyi ve bu temsiller üzerinden benzerlik ölçümleri yapmayı hedeflemektedir.
 
-## ÖNEMLİ: TF-IDF 100 mb üstü olduğundan drive linki koydum. Link ->
+## ÖNEMLİ: TF-IDF 100 mb üstü olduğundan drive linki koydum. Link -> https://drive.google.com/drive/folders/1W31-ViSHExfEhxCL6TKL4wLH6oKf0a85?usp=sharing
 ## 📁 Kullanılan Veri Seti
 - **Kaynak:** [arXiv API](https://arxiv.org/help/api/)
 - **Konu:** "Artificial Intelligence"
